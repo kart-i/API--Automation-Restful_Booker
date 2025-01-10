@@ -2,8 +2,8 @@ package booker.services;
 
 import com.matschie.api.design.ResponseAPI;
 import com.matschie.api.rest.assured.lib.RestAssuredBaseImpl;
-import com.matschie.service.now.pojos.BookingDates;
-import com.matschie.service.now.pojos.Payload;
+import com.matschie.restfulbooker.pojos.BookingDates;
+import com.matschie.restfulbooker.pojos.Payload;
 
 import io.restassured.specification.RequestSpecification;
 

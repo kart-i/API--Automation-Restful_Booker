@@ -1,4 +1,4 @@
-package com.matschie.service.now.pojos;
+package com.matschie.restfulbooker.pojos;
 
 public class BookingDates {
 	
